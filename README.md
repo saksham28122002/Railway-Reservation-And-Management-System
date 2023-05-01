@@ -1,5 +1,5 @@
 # Railway-Reservation-And-Management-System
-Brief description/br
+Brief description
 ● The mini-project entitled “Railway reservation management system“ is developed as apart
 of Mini Project
 ● Our website has various kinds of information that helps regarding booking of tickets via
